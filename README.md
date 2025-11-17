@@ -2,6 +2,9 @@
 
 This repository contains the implementation of all methods evaluated in the paper "Learning a Thousand Tasks in a Day". We provide model architectures, training scripts, and deployment examples.
 
+Paper published on **Science Robotics**: https://www.science.org/doi/10.1126/scirobotics.adv7594
+<br>Website: https://www.robot-learning.uk/learning-1000-tasks
+
 ## Overview
 
 This codebase implements five methods for learning manipulation tasks from limited per-task demonstrations:
